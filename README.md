@@ -1,3 +1,4 @@
+```
  git diff
 diff --git a/hw1/DividendToken.sol b/hw1/DividendToken.sol
 index ad8578c..b49205f 100644
@@ -65,3 +66,4 @@ index 5a3717d..d2f7fbb 100644
              else {
                  ExecutionFailure(transactionId);
 ~
+```
